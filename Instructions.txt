@@ -17,3 +17,12 @@ by default
 All push and pull commands can be put into the format:
 
 git <push or pull> <name of repository origin by default> <the branch master by default>
+
+5. Look up these topics to help you learn more about using git
+
+Merge Conflicts
+Changing text editors
+Additional functionality in adding and subtracting
+Other Basic Terminal Commands
+Branching
+
