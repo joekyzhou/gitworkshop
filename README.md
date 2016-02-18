@@ -10,6 +10,7 @@ Forking allows you to create a copy of a repository under your user account. Thi
 - `cd`- Allows you to change directories (folders)
 - `pwd` - Prints the current working directory you're currently on
 - `ls` - Lists all the directories within your current directory
+- `touch` - Creates a file of a specified name
 
 ## Some Basic Git commands
 - `git status`
