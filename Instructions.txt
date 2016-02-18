@@ -1,2 +1,30 @@
-Create a file in this folder with text inside or
-just write something here below.
+1. Create a file in this folder. To create a folder click file new file or right click the director the side
+and there you can also click new file.
+2. Look over these basic terminal commands.
+
+Terminal Commands
+pwd - Shows you what path your current directory is in
+ls - Shows you all the files inside your current directory
+cd - Changes the current directory
+touch - Creates a file of a specified name
+
+3. Use cd to go into the gitworkshop folder and use pwd to make sure you are there.
+4. Look at these push and pull structure explainations later.
+
+Git Push and Pull
+
+git push = git push origin master
+by default
+
+All push and pull commands can be put into the format:
+
+git <push or pull> <name of repository origin by default> <the branch master by default>
+
+5. Look up these topics to help you learn more about using git
+
+Merge Conflicts
+Changing text editors
+Additional functionality in adding and subtracting
+Other Basic Terminal Commands
+Branching
+
