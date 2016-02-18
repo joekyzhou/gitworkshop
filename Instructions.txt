@@ -6,7 +6,7 @@ Terminal Commands
 pwd - Shows you what path your current directory is in
 ls - Shows you all the files inside your current directory
 cd - Changes the current directory
-touch - Creates a file a specified name
+touch - Creates a file of a specified name
 
 3. Use cd to go into the gitworkshop folder and use pwd to make sure you are there.
 4. Look at these push and pull structure explainations later.
