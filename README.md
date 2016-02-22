@@ -29,3 +29,7 @@ Forking allows you to create a copy of a repository under your user account. Thi
   - Displays what your current local repository is linked to.
 - `git remote add <name> <link-to-other-repository>`
   - Allows git to register another repository so you can push and pull changes from it.
+
+## Contributors:
+-[Enan Rahman](https://github.com/enan789)
+-[Porrith Suong](https://github.com/psuong)
